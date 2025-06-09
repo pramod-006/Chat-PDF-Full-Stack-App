@@ -155,4 +155,8 @@ project-root/
 ## 👨‍💻 Author
 
 **Singana Pramod**  
+ HEAD
 🔗 [LinkedIn](https://linkedin.com/in/singanapramod)
+
+🔗 [LinkedIn](https://linkedin.com/in/singanapramod)
+4db3854 (Add frontend and Readme)
